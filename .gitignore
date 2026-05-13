@@ -1,0 +1,28 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local tooling folders (often created inside the repo by mistake)
+.ipython/
+.jupyter/
+.jupyter_config/
+
+# Generated notebook HTML exports
+executed_html/
+
+# Windows download sidecar files
+*:Zone.Identifier
+
+# Written when notebook I/O cells are run (optional to track)
+lab_03/arr.txt
+lab_04/iris.csv
+lab_04/iris_out.json
